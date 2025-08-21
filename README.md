@@ -52,8 +52,8 @@
 ## ✨ Connect With Me  
 
 🌐 GitHub: [Savindi2002](https://github.com/Savindi2002)  
-💼 LinkedIn: *(Add your LinkedIn link here)*  
-📧 Email: *(Add your professional email here)*  
+💼 LinkedIn: www.linkedin.com/in/savindi-hewage-506790326
+📧 Email:hewagesavindi@gmail.com   
 
 ---
 
