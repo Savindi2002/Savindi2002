@@ -1,200 +1,325 @@
-<!-- ===================================================== -->
+<!-- ============== FOREST GREEN GITHUB PROFILE ============== -->
 
-<!--                  PROFILE BANNER                     -->
-
-<!-- ===================================================== -->
-
-<h1 align="center">Hi, I'm Savindi Hewage 👋</h1>
-
-<h3 align="center">
-  Data Science Undergraduate | Machine Learning | Data Analytics
-</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071D16,50:12372A,100:245C43&height=230&section=header&text=Savindi%20Hewage&fontSize=52&fontColor=E8F5E9&fontAlignY=36&animation=fadeIn&desc=DATA%20SCIENCE%20%7C%20MACHINE%20LEARNING%20%7C%20ANALYTICS&descSize=15&descAlignY=58&descColor=B7D7C0" width="100%" alt="Savindi Hewage - Data Science Portfolio Banner"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/Savindi2002">
-    <img src="https://img.shields.io/badge/GitHub-Savindi2002-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-071D16?style=for-the-badge&logo=github&logoColor=E8F5E9" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/savindi-hewage-506790326/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-12372A?style=for-the-badge&logo=linkedin&logoColor=B7D7C0" alt="LinkedIn"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-Data%20Science-6C63FF?style=for-the-badge" alt="Data Science"/>
+  <img src="https://img.shields.io/badge/OPEN_TO-LEARNING%20%26%20COLLABORATION-245C43?style=for-the-badge&labelColor=071D16" alt="Learning and collaboration"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=75C69A&center=true&vCenter=true&width=750&lines=Transforming+Data+into+Meaningful+Insights;Building+Machine+Learning+Solutions;Exploring+AI%2C+NLP+%26+Predictive+Analytics;Learning.+Building.+Growing." alt="Animated introduction"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🌿 About Me
 
-I'm a **BSc (Hons) Data Science undergraduate at Sabaragamuwa University of Sri Lanka**, passionate about transforming data into meaningful insights and building intelligent, data-driven solutions.
+Hello! I'm **Savindi Hewage**, a Data Science undergraduate at **Sabaragamuwa University of Sri Lanka**, passionate about using data, machine learning, and artificial intelligence to solve real-world problems.
 
-My interests span the complete data science workflow — from data collection, cleaning, and exploratory analysis to machine learning, natural language processing, visualization, and predictive modeling.
+I enjoy working across the data science lifecycle, from exploring and preparing datasets to developing predictive models, discovering patterns, and communicating insights through meaningful visualizations.
 
-* 🔍 Exploring real-world problems through data analysis and machine learning.
-* 🤖 Building projects in predictive analytics, NLP, and AI-driven applications.
-* 📊 Turning complex datasets into actionable insights and visual stories.
-* 🌱 Continuously strengthening my technical skills through projects, competitions, and collaborative learning.
-* 🤝 Interested in Data Science, Machine Learning, Data Analytics, and AI internship opportunities.
+```python
+class SavindiHewage:
+    def __init__(self):
+        self.field = "Data Science"
+        self.interests = [
+            "Machine Learning",
+            "Natural Language Processing",
+            "Predictive Analytics",
+            "Data Visualization",
+            "Environmental AI"
+        ]
+        self.tools = ["Python", "SQL", "Power BI", "Git"]
+        self.current_focus = "Building practical data-driven projects"
+        self.goal = "Create technology with meaningful impact"
 
-**My goal:** To build practical, responsible, and impactful data-driven solutions while growing as a Data Science professional.
+    def mindset(self):
+        return "Stay curious. Keep building. Never stop learning."
+```
+
+* 🌱 Strengthening my skills through hands-on projects and collaborative learning.
+* 🤖 Exploring machine learning, NLP, predictive modeling, and AI applications.
+* 🌏 Interested in applying data science to healthcare, environmental challenges, and business problems.
+* 📊 Enjoying the process of turning raw data into understandable, useful insights.
+* 🤝 Open to connecting with fellow learners, developers, and data professionals.
+
+<p align="center">
+  <i>“Driven by curiosity. Guided by data. Inspired by impact.”</i>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 💻 Tech Stack
 
-### Programming & Data Analysis
+### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,php,html,css,javascript,mysql" alt="Programming skills"/>
+  <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,mysql&theme=dark" alt="Programming languages"/>
 </p>
 
-* **Data Science:** Pandas, NumPy, data cleaning, exploratory data analysis, feature engineering
-* **Machine Learning:** Scikit-learn, classification, regression, model evaluation, feature analysis
-* **NLP & AI:** TF-IDF, text classification, sentence embeddings, semantic similarity, job matching
-* **Data Visualization:** Matplotlib, Seaborn, Power BI
-* **Time Series:** ARIMA, SARIMA, forecasting, model evaluation
-* **Databases:** MySQL, MongoDB
-* **Tools & Platforms:** Git, GitHub, Jupyter Notebook, Google Colab, VS Code
-* **Currently Exploring:** Explainable AI, model deployment, FastAPI, and end-to-end ML applications
+### Data Science & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-12372A?style=flat-square&logo=pandas&logoColor=E8F5E9" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-12372A?style=flat-square&logo=numpy&logoColor=B7D7C0" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-12372A?style=flat-square&logo=scikitlearn&logoColor=E8F5E9" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/XGBoost-12372A?style=flat-square&logo=python&logoColor=B7D7C0" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/NLP-245C43?style=flat-square&logo=googletranslate&logoColor=FFFFFF" alt="NLP"/>
+</p>
+
+### Visualization, Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode&theme=dark" alt="Tools and databases"/>
+  <img src="https://img.shields.io/badge/Power%20BI-12372A?style=flat-square&logo=powerbi&logoColor=E8F5E9" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Jupyter-12372A?style=flat-square&logo=jupyter&logoColor=B7D7C0" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-12372A?style=flat-square&logo=googlecolab&logoColor=E8F5E9" alt="Google Colab"/>
+</p>
+
+**Areas of practice:** Data cleaning · Exploratory Data Analysis · Feature Engineering · Classification · Model Evaluation · Text Classification · Semantic Similarity · Time-Series Forecasting · Dashboard Development
+
+**Currently exploring:** Explainable AI · FastAPI · ML Deployment · Geospatial Machine Learning
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. CV Analyzer & Intelligent Job Matching
+<p align="center">
+  <i>A selection of my data science, machine learning, and analytics projects.</i>
+</p>
 
-**Technologies:** Python · NLP · TF-IDF · Scikit-learn · Sentence Transformers
+### 01 · CV Analyzer & Intelligent Job Matching
 
-An AI-driven project designed to analyze CVs, classify resume categories, match candidates with relevant job opportunities, and identify potential skill gaps.
+<p>
+  <img src="https://img.shields.io/badge/NLP-12372A?style=flat-square" alt="NLP"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-245C43?style=flat-square" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Text%20Similarity-426B50?style=flat-square" alt="Text Similarity"/>
+</p>
 
-* Built a text-classification pipeline using TF-IDF and Logistic Regression.
-* Achieved approximately **64.79% accuracy** with the Logistic Regression baseline.
-* Explored semantic similarity for more meaningful resume-to-job matching.
-* Developed skill-gap analysis to help identify skills relevant to target roles.
+An AI-driven project that explores resume classification, job matching, and skill-gap analysis to help connect candidate profiles with relevant job opportunities.
 
-🔗 [View Repository](https://github.com/Savindi2002/CV-Analyzer-Job-Matching)
+* Developed a TF-IDF and Logistic Regression text-classification baseline.
+* Achieved approximately **64.79% accuracy** with the baseline model.
+* Explored Sentence Transformers and cosine similarity for semantic job matching.
+* Investigated skill-gap analysis to identify potential areas for professional development.
 
-### 2. Life Expectancy Analysis & Prediction
+**Key learning:** Applying NLP techniques to real-world recruitment and text-matching problems.
 
-**Technologies:** Python · Pandas · Machine Learning · Time-Series Analysis · Explainable AI
+🔗 [Explore Repository](https://github.com/Savindi2002/CV-Analyzer-Job-Matching)
 
-A data science project using World Bank indicators to investigate life expectancy patterns and explore the factors associated with population health across countries and over time.
+---
 
-* Collecting and validating historical development and health indicators.
-* Exploring relationships between life expectancy and socioeconomic factors.
-* Developing a foundation for predictive modeling, forecasting, and country-level comparisons.
-* Exploring explainability and API-based access to model predictions.
+### 02 · LankaLandslide-AI
 
-🔗 [Explore My GitHub Repositories](https://github.com/Savindi2002?tab=repositories)
+<p>
+  <img src="https://img.shields.io/badge/Environmental%20AI-12372A?style=flat-square" alt="Environmental AI"/>
+  <img src="https://img.shields.io/badge/Geospatial%20Data-245C43?style=flat-square" alt="Geospatial data"/>
+  <img src="https://img.shields.io/badge/ML%20Research-426B50?style=flat-square" alt="Machine learning research"/>
+</p>
 
-### 3. Healthcare Risk Prediction & Analysis
+An environmental machine learning project focused on exploring landslide susceptibility and risk prediction in Sri Lanka using terrain and environmental data.
 
-**Technologies:** Python · Pandas · Scikit-learn · Logistic Regression · Decision Trees · Random Forest
+* Exploring terrain elevation and precipitation data as potential model inputs.
+* Developing data acquisition and preprocessing workflows.
+* Investigating Logistic Regression and Random Forest for risk classification.
+* Evaluating models with precision, recall, and F1-score to understand performance beyond accuracy.
 
-A healthcare data analysis project exploring stroke-event prediction using demographic, health, and lifestyle-related features.
+**Goal:** Explore how machine learning and geospatial data can contribute to environmental risk assessment and disaster-risk reduction.
 
-* Performed data cleaning and preprocessing on a dataset containing approximately 9,722 records.
-* Compared multiple classification algorithms.
-* Obtained approximately **94.5% accuracy with Random Forest** in the initial evaluation.
-* Explored model performance and the importance of appropriate evaluation.
+*Project in development; model performance and real-world predictive capability require further validation.*
 
-*Note: Accuracy alone does not establish clinical usefulness; further validation and class-imbalance-aware metrics are important.*
+🔗 [Explore LankaLandslide-AI](https://github.com/Savindi2002/LankaLandslide-AI)
 
-🔗 [View Project](https://github.com/Savindi2002/Canser-Prediction-Analysis)
+---
 
-### 4. Netflix Data Analysis
+### 03 · Life Expectancy Analysis & Prediction
 
-**Technologies:** Python · Pandas · Matplotlib · Seaborn · Scikit-learn
+<p>
+  <img src="https://img.shields.io/badge/World%20Bank%20Data-12372A?style=flat-square" alt="World Bank data"/>
+  <img src="https://img.shields.io/badge/Predictive%20Analytics-245C43?style=flat-square" alt="Predictive analytics"/>
+  <img src="https://img.shields.io/badge/Explainable%20AI-426B50?style=flat-square" alt="Explainable AI"/>
+</p>
 
-An exploratory data analysis project examining Netflix titles, content characteristics, and patterns in the platform's movies and TV shows.
+A data science project investigating life expectancy patterns and health-related development indicators across countries and over time using World Bank data.
 
-* Cleaned and transformed the Netflix titles dataset.
-* Investigated content types, release patterns, and duration-related characteristics.
-* Created visualizations to communicate patterns and support data-driven observations.
-* Explored a classification workflow as part of the project.
+* Collecting and validating historical indicators covering multiple decades.
+* Exploring relationships between life expectancy, healthcare, and socioeconomic factors.
+* Preparing data for predictive modeling, forecasting, and country-level comparisons.
+* Exploring explainability and API-based model prediction workflows.
 
-🔗 [View Project](https://github.com/Savindi2002/Netflix-Data-Analysis)
-
-### 5. Hospital Emergency Room Analytics Dashboard
-
-**Technologies:** Power BI · Data Visualization · Business Intelligence
-
-An interactive dashboard designed to explore emergency room performance and patient trends.
-
-* Organized insights into monthly trends, ER performance, and patient analysis.
-* Used interactive visualizations to make operational patterns easier to explore.
-* Presented findings and recommendations to support data-informed decision-making.
+**Goal:** Turn global development data into interpretable insights that can support research into population health and development.
 
 🔗 [Explore My Repositories](https://github.com/Savindi2002?tab=repositories)
 
-### 6. Customer Churn Analysis — Collaborative Project
+---
 
-**Technologies:** Python · AWS · Data Analytics · Git · GitHub
+### 04 · Healthcare Risk Prediction
 
-A collaborative project focused on customer churn, with contributions to the project's dataset setup and GitHub workflow.
+<p>
+  <img src="https://img.shields.io/badge/Healthcare%20Analytics-12372A?style=flat-square" alt="Healthcare analytics"/>
+  <img src="https://img.shields.io/badge/Classification-245C43?style=flat-square" alt="Classification"/>
+</p>
 
-* Contributed the raw Telco Customer Churn dataset through a dedicated feature branch.
-* Practiced collaborative version control and pull-request workflows.
-* Worked within a shared project structure designed to support a data science workflow.
+A machine learning project exploring stroke-event prediction from demographic, health, and lifestyle-related features.
+
+* Processed a dataset containing approximately 9,722 records.
+* Compared Logistic Regression, Decision Trees, Random Forest, and Gradient Boosting.
+* Achieved approximately **94.5% accuracy with Random Forest** in the initial evaluation.
+* Explored the importance of model evaluation and responsible interpretation of healthcare predictions.
+
+*Accuracy alone does not establish clinical usefulness. Further validation, class-imbalance analysis, and appropriate evaluation metrics are necessary.*
+
+🔗 [Explore Healthcare Project](https://github.com/Savindi2002/Canser-Prediction-Analysis)
+
+---
+
+### 05 · Netflix Data Analysis
+
+<p>
+  <img src="https://img.shields.io/badge/Exploratory%20Analysis-12372A?style=flat-square" alt="Exploratory analysis"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-245C43?style=flat-square" alt="Data visualization"/>
+</p>
+
+An exploratory analysis of Netflix movies and TV shows to understand content characteristics, release patterns, and distribution trends.
+
+* Cleaned and transformed the Netflix titles dataset.
+* Investigated content types, release years, and duration-related patterns.
+* Developed visualizations to communicate findings.
+* Explored a classification workflow as part of the project.
+
+🔗 [Explore Netflix Analysis](https://github.com/Savindi2002/Netflix-Data-Analysis)
+
+---
+
+### 06 · Hospital Emergency Room Analytics Dashboard
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-12372A?style=flat-square" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Business%20Intelligence-245C43?style=flat-square" alt="Business intelligence"/>
+</p>
+
+An interactive Power BI dashboard designed to explore emergency room performance and patient trends.
+
+* Organized the analysis into monthly trends, ER performance, and patient analysis.
+* Used interactive visualizations to investigate operational patterns.
+* Presented insights and recommendations to support data-informed decision-making.
+
+🔗 [Explore My Repositories](https://github.com/Savindi2002?tab=repositories)
+
+---
+
+### 07 · Customer Churn Analysis — Collaborative Project
+
+<p>
+  <img src="https://img.shields.io/badge/Customer%20Analytics-12372A?style=flat-square" alt="Customer analytics"/>
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-245C43?style=flat-square" alt="Git and GitHub"/>
+</p>
+
+A collaborative customer churn project involving dataset preparation and a shared GitHub development workflow.
+
+* Contributed the raw Telco Customer Churn dataset through a dedicated branch.
+* Practiced staging, committing, branching, and pull-request workflows.
+* Collaborated within a shared repository structure for a data analytics project.
 
 🔗 [View Collaborative Repository](https://github.com/kavishanimsara/customer-churn-aws-project)
 
 ---
 
-## 🏆 Competitions & Activities
+## 🏆 Competitions & Achievements
 
-* **Codemania V6.0** — Top 15 Finalist, Team Deadlock; IEEE Computer Society SLTC datathon.
-* **DATA XPLORE 2.0** — Participant, Statistics Society, University of Sri Jayewardenepura.
-* **Ballerina Coding Challenge** — Participant, IEEE University of Moratuwa with WSO2.
-* **Google AI Essentials** — Completed through Coursera.
-* **ProxyMaze and other technical events** — Exploring opportunities to improve problem-solving and collaborative development skills.
+<table>
+  <tr>
+    <td>🏅</td>
+    <td><b>Codemania V6.0</b></td>
+    <td>Top 15 Finalist — Team Deadlock, IEEE CS SLTC datathon.</td>
+  </tr>
+  <tr>
+    <td>📊</td>
+    <td><b>DATA XPLORE 2.0</b></td>
+    <td>Participant — Statistics Society, University of Sri Jayewardenepura.</td>
+  </tr>
+  <tr>
+    <td>💻</td>
+    <td><b>Ballerina Coding Challenge</b></td>
+    <td>Participant — IEEE University of Moratuwa with WSO2.</td>
+  </tr>
+  <tr>
+    <td>🤖</td>
+    <td><b>Google AI Essentials</b></td>
+    <td>Completed through Coursera.</td>
+  </tr>
+</table>
 
 ---
 
-## 🌟 Leadership & Community Involvement
+## 🌱 Leadership & Community
 
-I enjoy contributing to technical communities, coordinating events, and working with people toward shared goals.
+Beyond technical projects, I value collaboration, communication, and contributing to the technology community.
 
 * **Secretary** — Society of Computer Science, Sabaragamuwa University of Sri Lanka.
 * **Program Team Leader & Host** — IEEE Women in Engineering Day 2026.
 * **Team Member & Host** — Path Forward 3.0.
 * **Finance Team Leader** — Blogathon, Computer Science Chapter, SUSL.
 * **Volunteer** — STEMUP.
-* **Rotaract Activities** — Event hosting and community engagement.
+* **Event Host** — Rotaract activities and community engagement.
 
-These experiences have helped me develop teamwork, communication, event coordination, and leadership skills alongside my technical learning.
+These experiences complement my technical development through teamwork, event coordination, leadership, and communication.
 
 ---
 
 ## 🎓 Education & Certifications
 
-* **BSc (Hons) in Data Science** — Sabaragamuwa University of Sri Lanka.
-* **Advanced Diploma in English** — Beeline Campus.
-* **Google AI Essentials** — Coursera.
-* **Japanese-Language Proficiency Test (JLPT) N5** — Passed.
+| Qualification               | Institution                          |
+| --------------------------- | ------------------------------------ |
+| BSc (Hons) in Data Science  | Sabaragamuwa University of Sri Lanka |
+| Advanced Diploma in English | Beeline Campus                       |
+| Google AI Essentials        | Coursera                             |
+| JLPT N5 — Passed            | Japanese-Language Proficiency Test   |
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Savindi2002&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savindi2002&layout=compact&hide_border=true" height="165" alt="Most-used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Savindi2002&show_icons=true&hide_border=true&bg_color=071D16&title_color=75C69A&text_color=E8F5E9&icon_color=75C69A&ring_color=75C69A" height="170" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savindi2002&layout=compact&hide_border=true&bg_color=071D16&title_color=75C69A&text_color=E8F5E9" height="170" alt="Most-used programming languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Savindi2002&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=Savindi2002&hide_border=true&background=071D16&ring=75C69A&fire=C8A96B&currStreakLabel=75C69A&sideLabels=B7D7C0&currStreakNum=E8F5E9&sideNums=E8F5E9&dates=8CA99A" alt="GitHub contribution streak"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071D16,100:245C43&height=3&section=footer" width="100%" alt="Green footer divider"/>
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in learning from other developers, collaborating on meaningful projects, and exploring opportunities in Data Science, Machine Learning, and Data Analytics.
+I'm always happy to connect with people who are passionate about data, AI, technology, and meaningful problem-solving.
+
+Whether it's sharing ideas, collaborating on projects, learning new tools, or exploring opportunities in Data Science and Machine Learning, let's connect and grow together.
 
 <p align="center">
-  <a href="https://github.com/Savindi2002">GitHub</a> •
-  <a href="https://www.linkedin.com/in/savindi-hewage-506790326/">LinkedIn</a>
+  <a href="https://github.com/Savindi2002">
+    <img src="https://img.shields.io/badge/Explore%20My%20Projects-12372A?style=for-the-badge&logo=github&logoColor=E8F5E9" alt="Explore my projects"/>
+  </a>
+  <a href="https://www.linkedin.com/in/savindi-hewage-506790326/">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-245C43?style=for-the-badge&logo=linkedin&logoColor=E8F5E9" alt="Connect on LinkedIn"/>
+  </a>
 </p>
 
 <p align="center">
-  <i>"Turning data into insights, and insights into impact."</i>
+  <i>Building with purpose. Learning with curiosity. Growing through every challenge. 🌿</i>
 </p>
+
+<!-- ============== END OF PROFILE README ============== -->
