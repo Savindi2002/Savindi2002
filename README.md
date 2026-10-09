@@ -1,21 +1,23 @@
-<!-- ============== FOREST GREEN GITHUB PROFILE ============== -->
+<!-- ============== NAVY BLUE & CYAN GITHUB PROFILE ============== -->
+
+<!-- ============== SAVINDI HEWAGE | NAVY AI PROFILE BANNER ============== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071D16,50:12372A,100:245C43&height=230&section=header&text=Savindi%20Hewage&fontSize=52&fontColor=E8F5E9&fontAlignY=36&animation=fadeIn&desc=DATA%20SCIENCE%20%7C%20MACHINE%20LEARNING%20%7C%20ANALYTICS&descSize=15&descAlignY=58&descColor=B7D7C0" width="100%" alt="Savindi Hewage - Data Science Portfolio Banner"/>
+  <img src="assets/github-cover.png" width="100%" alt="Savindi Hewage — Data Scientist | Machine Learning Engineer | AI Engineer"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/Savindi2002">
-    <img src="https://img.shields.io/badge/GitHub-071D16?style=for-the-badge&logo=github&logoColor=E8F5E9" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-061326?style=for-the-badge&logo=github&logoColor=EAF7FF" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/savindi-hewage-506790326/">
-    <img src="https://img.shields.io/badge/LinkedIn-12372A?style=for-the-badge&logo=linkedin&logoColor=B7D7C0" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0B2B50?style=for-the-badge&logo=linkedin&logoColor=A5E8FF" alt="LinkedIn"/>
   </a>
-  <img src="https://img.shields.io/badge/OPEN_TO-LEARNING%20%26%20COLLABORATION-245C43?style=for-the-badge&labelColor=071D16" alt="Learning and collaboration"/>
+  <img src="https://img.shields.io/badge/OPEN_TO-LEARNING%20%26%20COLLABORATION-075985?style=for-the-badge&labelColor=061326" alt="Learning and collaboration"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=75C69A&center=true&vCenter=true&width=750&lines=Transforming+Data+into+Meaningful+Insights;Building+Machine+Learning+Solutions;Exploring+AI%2C+NLP+%26+Predictive+Analytics;Learning.+Building.+Growing." alt="Animated introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Transforming+Data+into+Meaningful+Insights;Building+Machine+Learning+Solutions;Exploring+AI%2C+NLP+%26+Predictive+Analytics;Learning.+Building.+Growing." alt="Animated introduction"/>
 </p>
 
 ---
@@ -68,20 +70,20 @@ class SavindiHewage:
 ### Data Science & Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-12372A?style=flat-square&logo=pandas&logoColor=E8F5E9" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-12372A?style=flat-square&logo=numpy&logoColor=B7D7C0" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-12372A?style=flat-square&logo=scikitlearn&logoColor=E8F5E9" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/XGBoost-12372A?style=flat-square&logo=python&logoColor=B7D7C0" alt="XGBoost"/>
-  <img src="https://img.shields.io/badge/NLP-245C43?style=flat-square&logo=googletranslate&logoColor=FFFFFF" alt="NLP"/>
+  <img src="https://img.shields.io/badge/Pandas-0B2B50?style=flat-square&logo=pandas&logoColor=EAF7FF" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-0B2B50?style=flat-square&logo=numpy&logoColor=A5E8FF" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-0B2B50?style=flat-square&logo=scikitlearn&logoColor=EAF7FF" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/XGBoost-0B2B50?style=flat-square&logo=python&logoColor=A5E8FF" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/NLP-075985?style=flat-square&logo=googletranslate&logoColor=FFFFFF" alt="NLP"/>
 </p>
 
 ### Visualization, Databases & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode&theme=dark" alt="Tools and databases"/>
-  <img src="https://img.shields.io/badge/Power%20BI-12372A?style=flat-square&logo=powerbi&logoColor=E8F5E9" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Jupyter-12372A?style=flat-square&logo=jupyter&logoColor=B7D7C0" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-12372A?style=flat-square&logo=googlecolab&logoColor=E8F5E9" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/Power%20BI-0B2B50?style=flat-square&logo=powerbi&logoColor=EAF7FF" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Jupyter-0B2B50?style=flat-square&logo=jupyter&logoColor=A5E8FF" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-0B2B50?style=flat-square&logo=googlecolab&logoColor=EAF7FF" alt="Google Colab"/>
 </p>
 
 **Areas of practice:** Data cleaning · Exploratory Data Analysis · Feature Engineering · Classification · Model Evaluation · Text Classification · Semantic Similarity · Time-Series Forecasting · Dashboard Development
@@ -99,9 +101,9 @@ class SavindiHewage:
 ### 01 · CV Analyzer & Intelligent Job Matching
 
 <p>
-  <img src="https://img.shields.io/badge/NLP-12372A?style=flat-square" alt="NLP"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-245C43?style=flat-square" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Text%20Similarity-426B50?style=flat-square" alt="Text Similarity"/>
+  <img src="https://img.shields.io/badge/NLP-0B2B50?style=flat-square" alt="NLP"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-075985?style=flat-square" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Text%20Similarity-0E7490?style=flat-square" alt="Text Similarity"/>
 </p>
 
 An AI-driven project that explores resume classification, job matching, and skill-gap analysis to help connect candidate profiles with relevant job opportunities.
@@ -120,9 +122,9 @@ An AI-driven project that explores resume classification, job matching, and skil
 ### 02 · LankaLandslide-AI
 
 <p>
-  <img src="https://img.shields.io/badge/Environmental%20AI-12372A?style=flat-square" alt="Environmental AI"/>
-  <img src="https://img.shields.io/badge/Geospatial%20Data-245C43?style=flat-square" alt="Geospatial data"/>
-  <img src="https://img.shields.io/badge/ML%20Research-426B50?style=flat-square" alt="Machine learning research"/>
+  <img src="https://img.shields.io/badge/Environmental%20AI-0B2B50?style=flat-square" alt="Environmental AI"/>
+  <img src="https://img.shields.io/badge/Geospatial%20Data-075985?style=flat-square" alt="Geospatial data"/>
+  <img src="https://img.shields.io/badge/ML%20Research-0E7490?style=flat-square" alt="Machine learning research"/>
 </p>
 
 An environmental machine learning project focused on exploring landslide susceptibility and risk prediction in Sri Lanka using terrain and environmental data.
@@ -143,9 +145,9 @@ An environmental machine learning project focused on exploring landslide suscept
 ### 03 · Life Expectancy Analysis & Prediction
 
 <p>
-  <img src="https://img.shields.io/badge/World%20Bank%20Data-12372A?style=flat-square" alt="World Bank data"/>
-  <img src="https://img.shields.io/badge/Predictive%20Analytics-245C43?style=flat-square" alt="Predictive analytics"/>
-  <img src="https://img.shields.io/badge/Explainable%20AI-426B50?style=flat-square" alt="Explainable AI"/>
+  <img src="https://img.shields.io/badge/World%20Bank%20Data-0B2B50?style=flat-square" alt="World Bank data"/>
+  <img src="https://img.shields.io/badge/Predictive%20Analytics-075985?style=flat-square" alt="Predictive analytics"/>
+  <img src="https://img.shields.io/badge/Explainable%20AI-0E7490?style=flat-square" alt="Explainable AI"/>
 </p>
 
 A data science project investigating life expectancy patterns and health-related development indicators across countries and over time using World Bank data.
@@ -164,8 +166,8 @@ A data science project investigating life expectancy patterns and health-related
 ### 04 · Healthcare Risk Prediction
 
 <p>
-  <img src="https://img.shields.io/badge/Healthcare%20Analytics-12372A?style=flat-square" alt="Healthcare analytics"/>
-  <img src="https://img.shields.io/badge/Classification-245C43?style=flat-square" alt="Classification"/>
+  <img src="https://img.shields.io/badge/Healthcare%20Analytics-0B2B50?style=flat-square" alt="Healthcare analytics"/>
+  <img src="https://img.shields.io/badge/Classification-075985?style=flat-square" alt="Classification"/>
 </p>
 
 A machine learning project exploring stroke-event prediction from demographic, health, and lifestyle-related features.
@@ -184,8 +186,8 @@ A machine learning project exploring stroke-event prediction from demographic, h
 ### 05 · Netflix Data Analysis
 
 <p>
-  <img src="https://img.shields.io/badge/Exploratory%20Analysis-12372A?style=flat-square" alt="Exploratory analysis"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-245C43?style=flat-square" alt="Data visualization"/>
+  <img src="https://img.shields.io/badge/Exploratory%20Analysis-0B2B50?style=flat-square" alt="Exploratory analysis"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-075985?style=flat-square" alt="Data visualization"/>
 </p>
 
 An exploratory analysis of Netflix movies and TV shows to understand content characteristics, release patterns, and distribution trends.
@@ -202,8 +204,8 @@ An exploratory analysis of Netflix movies and TV shows to understand content cha
 ### 06 · Hospital Emergency Room Analytics Dashboard
 
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-12372A?style=flat-square" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Business%20Intelligence-245C43?style=flat-square" alt="Business intelligence"/>
+  <img src="https://img.shields.io/badge/Power%20BI-0B2B50?style=flat-square" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Business%20Intelligence-075985?style=flat-square" alt="Business intelligence"/>
 </p>
 
 An interactive Power BI dashboard designed to explore emergency room performance and patient trends.
@@ -219,8 +221,8 @@ An interactive Power BI dashboard designed to explore emergency room performance
 ### 07 · Customer Churn Analysis — Collaborative Project
 
 <p>
-  <img src="https://img.shields.io/badge/Customer%20Analytics-12372A?style=flat-square" alt="Customer analytics"/>
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-245C43?style=flat-square" alt="Git and GitHub"/>
+  <img src="https://img.shields.io/badge/Customer%20Analytics-0B2B50?style=flat-square" alt="Customer analytics"/>
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-075985?style=flat-square" alt="Git and GitHub"/>
 </p>
 
 A collaborative customer churn project involving dataset preparation and a shared GitHub development workflow.
@@ -289,16 +291,16 @@ These experiences complement my technical development through teamwork, event co
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Savindi2002&show_icons=true&hide_border=true&bg_color=071D16&title_color=75C69A&text_color=E8F5E9&icon_color=75C69A&ring_color=75C69A" height="170" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savindi2002&layout=compact&hide_border=true&bg_color=071D16&title_color=75C69A&text_color=E8F5E9" height="170" alt="Most-used programming languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Savindi2002&show_icons=true&hide_border=true&bg_color=061326&title_color=22D3EE&text_color=EAF7FF&icon_color=22D3EE&ring_color=22D3EE" height="170" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savindi2002&layout=compact&hide_border=true&bg_color=061326&title_color=22D3EE&text_color=EAF7FF" height="170" alt="Most-used programming languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Savindi2002&hide_border=true&background=071D16&ring=75C69A&fire=C8A96B&currStreakLabel=75C69A&sideLabels=B7D7C0&currStreakNum=E8F5E9&sideNums=E8F5E9&dates=8CA99A" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=Savindi2002&hide_border=true&background=061326&ring=22D3EE&fire=60A5FA&currStreakLabel=22D3EE&sideLabels=A5E8FF&currStreakNum=EAF7FF&sideNums=EAF7FF&dates=94A3B8" alt="GitHub contribution streak"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071D16,100:245C43&height=3&section=footer" width="100%" alt="Green footer divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:061326,100:075985&height=3&section=footer" width="100%" alt="Navy and cyan footer divider"/>
 </p>
 
 ---
@@ -311,10 +313,10 @@ Whether it's sharing ideas, collaborating on projects, learning new tools, or ex
 
 <p align="center">
   <a href="https://github.com/Savindi2002">
-    <img src="https://img.shields.io/badge/Explore%20My%20Projects-12372A?style=for-the-badge&logo=github&logoColor=E8F5E9" alt="Explore my projects"/>
+    <img src="https://img.shields.io/badge/Explore%20My%20Projects-0B2B50?style=for-the-badge&logo=github&logoColor=EAF7FF" alt="Explore my projects"/>
   </a>
   <a href="https://www.linkedin.com/in/savindi-hewage-506790326/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-245C43?style=for-the-badge&logo=linkedin&logoColor=E8F5E9" alt="Connect on LinkedIn"/>
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-075985?style=for-the-badge&logo=linkedin&logoColor=EAF7FF" alt="Connect on LinkedIn"/>
   </a>
 </p>
 
