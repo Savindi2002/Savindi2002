@@ -3,7 +3,7 @@
 <!-- ============== SAVINDI HEWAGE | NAVY AI PROFILE BANNER ============== -->
 
 <p align="center">
-  <img src="assets/github-cover.png" width="100%" alt="Savindi Hewage — Data Scientist | Machine Learning Engineer | AI Engineer"/>
+  <img src="github-cover.png" width="100%" alt="Savindi Hewage — Data Scientist | Machine Learning Engineer | AI Engineer"/>
 </p>
 
 <p align="center">
